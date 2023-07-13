@@ -1,0 +1,137 @@
+.container {
+}
+
+.main {
+}
+
+.container-main-two {
+  margin-left: 232px;
+}
+
+.title-main-one {
+  color: var(--txt-grey, #383736);
+  font-family: Raleway;
+  font-size: 41px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.box-main-one {
+  width: 285.81px;
+  height: 78.018px;
+  border-radius: 7.725px;
+  background: var(--green, #adc22a);
+  display: flex;
+}
+
+.icon-main-one {
+  width: 36px;
+  height: 37px;
+  padding-left: 31px;
+  padding-top: 20px;
+}
+
+.text-main-one {
+  color: var(--white, #fff);
+  font-family: Raleway;
+  font-size: 20.856px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding-top: 7px;
+  padding-left: 20px;
+}
+
+.box-main-two {
+  width: 190.797px;
+  height: 77.246px;
+  border-radius: 7.725px;
+  background: var(--bg-pins, #f9f9f9);
+  display: flex;
+  margin-left: 5px;
+}
+
+.icon-main-two {
+  width: 25px;
+  height: 30.5px;
+  padding-top: 19px;
+  padding-left: 22px;
+  padding-right: 10px;
+}
+
+.text-main-two {
+  color: var(--txt-grey, #383736);
+  font-family: Raleway;
+  font-size: 20.856px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.big-box-main-one {
+  display: flex;
+}
+
+.box-main-three {
+  padding: 40px 54px 40px 60px;
+  width: 426px;
+  height: 297px;
+  border-radius: 10px;
+  border: 2px solid var(--green, #adc22a);
+  background: var(--bg-grey-warm, #f7f6f2);
+  margin-top: 30px;
+  margin-left: 231px;
+}
+
+.title-main-three {
+  color: var(--txt-grey, #383736);
+  width: 321px;
+  height: 32px;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.text-main-three {
+  color: var(--txt-grey, #383736);
+  font-family: Raleway;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.box-main-four {
+  width: 222px;
+  height: 45px;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  border: 1px solid var(--stroke-field, #efefef);
+  background: var(--white, #fff);
+  margin-left: 20px;
+}
+
+.text-main-four {
+  color: var(--txt-grey-1, #787878);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding-left: 20px;
+}
+
+.big-box-two {
+  display: flex;
+}
+
+.bigger-box-main {
+  display: flex;
+}
